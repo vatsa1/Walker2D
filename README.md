@@ -51,11 +51,6 @@ Both algorithms have their advantages:
 - **SAC** is more sample-efficient and achieves better performance but is complex to tune.
 - **PPO** is more stable but slower and less sample-efficient.
 
-## Future Work
-- Experimenting with hybrid approaches that combine SAC and PPO features.
-- Exploring additional reward functions and environment modifications.
-- Extending the analysis to other continuous control tasks.
-
 ## Authors
 - **Shrivatsa Mudligiri**
 - **Rufina George**
