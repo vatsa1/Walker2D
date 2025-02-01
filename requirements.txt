@@ -1,0 +1,7 @@
+gym==0.26.2
+   pybullet
+   numpy
+   torch
+   tensorboard
+   pyvirtualdisplay
+   imagemagick
